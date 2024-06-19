@@ -47,7 +47,7 @@ export default {
       <div class="mb-3 row">
         <label for="inputPassword" class="form-label">Password</label>
         <div class="col-sm-10">
-          <input type="password" v-model="password" required class="form-control w-100" id="inputPassword" />
+          <input  type="password" v-model="password" required class="form-control w-100" id="inputPassword" />
         </div>
       </div>
 

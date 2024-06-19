@@ -51,7 +51,6 @@
   </script>
   
   <style>
-  /* Optional: Add some basic styling for your chart container */
   .chart-container {
     position: relative;
     margin: auto;
