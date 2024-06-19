@@ -1,0 +1,34 @@
+{
+    "risorse": [
+        {
+            "tipo": "Gas",
+            "dati": [
+                { "timestamp": "2024-06-11T12:00:00Z", "valore": 100 },
+                { "timestamp": "2024-06-11T13:00:00Z", "valore": 130 },
+                { "timestamp": "2024-06-11T14:00:00Z", "valore": 89 }
+            ],
+            "unita": "m³",
+            "max": 11000
+        },
+        {
+            "tipo": "Luce",
+            "dati": [
+                { "timestamp": "2024-06-11T12:00:00Z", "valore": 20 },
+                { "timestamp": "2024-06-11T13:00:00Z", "valore": 45 },
+                { "timestamp": "2024-06-11T14:00:00Z", "valore": 15 }
+            ],
+            "unita": "kWh",
+            "max": 10000
+        },
+        {
+            "tipo": "Acqua",
+            "dati": [
+                { "timestamp": "2024-06-11T12:00:00Z", "valore": 34 },
+                { "timestamp": "2024-06-11T13:00:00Z", "valore": 55 },
+                { "timestamp": "2024-06-11T14:00:00Z", "valore": 70 }
+            ],
+            "unita": "litri",
+            "max": 8000
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "users" :[
+        {
+            "email" : "massinov@gmail.com",
+            "password": "Montazzoli1",
+            "username": "Massimiliano"
+        },
+        {
+            "email" : "rossi@gmail.com",
+            "password": "Mario12",
+            "username": "Mario"
+        },{
+            "email" : "matteo@gmail.com",
+            "password": "Matteo14",
+            "username": "Matteo"
+        }
+    ]
+}
